@@ -12,7 +12,7 @@ Basilisk is a new take on the popular snake game. It consists of a GUI which let
   2. mysql needs to be setup in order for the program to work
      - A database named snake_game needs to be made
      - Create a table called scores with the following attributes
-  	   - name   char(100)
+  	     - name   char(100)
 	     - score	integer
 	     - speed	char(50)
 	     - size	char(50)
